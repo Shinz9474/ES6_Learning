@@ -1,0 +1,9 @@
+{
+    "name":"My Express Demo- Production",
+    "os":"Linux",
+    "apps":{
+        "db":"mongodb",
+        "logger":"morgan",
+        "schema":"joi"
+    }
+}

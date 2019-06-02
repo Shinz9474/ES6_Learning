@@ -1,0 +1,9 @@
+{
+    "name":"My Express Demo- Default",
+    "os":"mac",
+    "apps":{
+        "db":"mongodb",
+        "logger":"morgan",
+        "schema":"joi"
+    }
+}
