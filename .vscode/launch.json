@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/6.AsyncJS/payments.js"
+            "program": "${workspaceFolder}/6.AsyncJS/asyncjsui/promises.js"
         }
     ]
 }
