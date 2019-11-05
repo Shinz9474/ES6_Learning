@@ -5,7 +5,7 @@
   "main": "Logger.js",
   "dependencies": {
     "lion-lib": "^1.1.0",
-    "mongoose": "^5.5.11"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {},
   "scripts": {
